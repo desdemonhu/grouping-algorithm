@@ -23,5 +23,8 @@
   "devDependencies": {
     "expect": "^21.2.1",
     "mocha": "^3.5.3"
+  },
+  "dependencies": {
+    "eslint": "^4.7.2"
   }
 }
