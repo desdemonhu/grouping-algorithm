@@ -1,0 +1,27 @@
+{
+  "name": "grouping-algorithm",
+  "version": "1.0.0",
+  "description": "Groups together consecutive numbers",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/desdemonhu/grouping-algorithm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/desdemonhu/grouping-algorithm/issues"
+  },
+  "homepage": "https://github.com/desdemonhu/grouping-algorithm#readme",
+  "devDependencies": {
+    "expect": "^21.2.1",
+    "mocha": "^3.5.3"
+  }
+}
